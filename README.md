@@ -7,7 +7,9 @@ To compile and run MIPS assembly code:
 
 To compile and run Verilog files:
 
-`iverilog <filename>.v -o <filename>
-vvp <filename>`
+```
+iverilog <filename>.v -o <filename>
+vvp <filename>
+```
 
 Made with love,seg faults and overflow errors by: Reuben Ninan
