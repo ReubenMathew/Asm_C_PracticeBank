@@ -12,4 +12,4 @@ iverilog <filename>.v -o <filename>
 vvp <filename>
 ```
 
-Made with love,seg faults and overflow errors by: Reuben Ninan
+Made with ❤ by: Reuben Ninan
